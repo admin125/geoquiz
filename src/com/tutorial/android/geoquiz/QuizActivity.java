@@ -20,8 +20,8 @@ public class QuizActivity extends ActionBarActivity {
 	
 	private Button mTrueButton;
 	private Button mFalseButton;
-	private Button mNextButton;
-	private Button mPrevButton;
+	//private Button mNextButton;
+	//private Button mPrevButton;
 	private Button mCheatButton;
 	
 	private ImageButton mNextImgButton;
